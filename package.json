@@ -1,0 +1,33 @@
+{
+  "name": "tea-radio",
+  "version": "0.0.1",
+  "description": "react radio component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea-react/tea-radio.git"
+  },
+  "author": "coffee bi",
+  "license": "MIT",
+  "files": [
+    "src",
+    "dist",
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "components",
+    "component",
+    "radio",
+    "observer",
+    "observable",
+    "watch"
+  ],
+  "bugs": {
+    "url": "https://github.com/tea-react/tea-radio/issues"
+  },
+  "homepage": "https://github.com/tea-react/tea-radio#readme"
+}
